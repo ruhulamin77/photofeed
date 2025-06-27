@@ -2,7 +2,7 @@ This is a responsive photo gallery showcasing landscape and portrait photos in a
 
 ## Live Link
 
-[Live Site]('https://photofeed-amber.vercel.app/')
+[Live Site](https://photofeed-amber.vercel.app/)
 
 ## How to run the development server:
 
